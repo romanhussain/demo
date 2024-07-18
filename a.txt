@@ -1,2 +1,6 @@
 origina
+<<<<<<< HEAD
 first change
+=======
+second change
+>>>>>>> dev
